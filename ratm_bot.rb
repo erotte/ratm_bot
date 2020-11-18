@@ -75,7 +75,4 @@ class RatmBot
 
 end
 
-# RatmBot.new.tweet!
-# bot = RatmBot.new
-# 110.times { puts bot.verse }
-puts RatmBot.new.verse
+RatmBot.new.tweet!
